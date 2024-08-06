@@ -9,5 +9,5 @@ Powershell script to extract file with failed login attempts.
 ## Tools Used
 ipgeolocation.io: Uses IP Address to get Geolocation API
 
-# World Map of Incoming Attacks After 24 hours (with Custom Logs Including Geodata)
+# World Map of Incoming Attacks After Several Hours (with Custom Logs Including Geodata)
 ![Screenshot 2024-07-18 093040](https://github.com/user-attachments/assets/bc31ad28-9bcc-48a4-99a9-7892f1037de8)
